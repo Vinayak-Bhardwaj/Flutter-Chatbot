@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "197021018571",
+    "project_id": "rasa-chatbot-f4d82",
+    "storage_bucket": "rasa-chatbot-f4d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197021018571:android:d527527cabfa4172c92e4e",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197021018571-eal13o26jevcb8lv4ro3b9idl3ghj716.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbot",
+            "certificate_hash": "9d8ca153ae7f59547cbdce72c25b8b167f88de35"
+          }
+        },
+        {
+          "client_id": "197021018571-2mp03q07ht9aucmcjj7ge0d1niqjnc9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH398VmqZVLBCJo4ZPUT1Bq0L9Znp2K4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197021018571-2mp03q07ht9aucmcjj7ge0d1niqjnc9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
